@@ -1,5 +1,5 @@
 <p align ="center"> <h1> Hi 👋, I'm Harsh Kodan </h1></p>
-<p align ="center"> <h3> >A passionate Developer from India </h3> </p>
+<p align ="center"> <h3> A passionate Developer from India </h3> </p>
 
 - 🔭 I’m looking to collaborate on Web Development, AI/ML projects 
 - 📫 How to reach me: harshkodan2004@email.com
