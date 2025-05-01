@@ -7,7 +7,7 @@ A passionate Developer from India
 
 ## Connect with me:
 
-[![LinkedIn](https://www.linkedin.com/in/harsh-kodan-011797266/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kodan-011797266/)  
 
 ## Languages and Tools:
 
