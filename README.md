@@ -1,5 +1,5 @@
-###              Hi 👋, I'm Harsh Kodan
-#           A passionate Developer from India
+<p align ="center"> # Hi 👋, I'm Harsh Kodan</p>
+<p align ="center"> A passionate Developer from India </p>
 
 - 🔭 I’m looking to collaborate on Web Development, AI/ML projects 
 - 📫 How to reach me: harshkodan2004@email.com
